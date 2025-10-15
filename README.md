@@ -7,7 +7,7 @@ The model leverages machine learning algorithms and synthetic data to showcase r
 ### Features
 - Synthetic recidivism dataset with 10+ risk factors
 - Automated preprocessing, SMOTE balancing, and hyperparameter tuning
-- Logistic Regression, Random Forest, and XGBoost model comparison
+- Logistic Regression, Random Forest, and XGBoost model comparison, can choose which one is needed
 - ROC-AUC performance evaluation and probability calibration
 - Top 20 highest-risk visualization dashboard
 - Responsible AI practices (no protected attributes, interpretable output)
