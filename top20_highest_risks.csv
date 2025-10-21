@@ -1,0 +1,21 @@
+index,name,dob,age,race,priors_count,c_charge_desc,pred_proba
+3034,ivan parra,1990-10-28,25,Caucasian,4,Robbery / No Weapon,1.0
+6390,tyreak gant,1992-04-01,24,African-American,2,Tresspass Struct/Conveyance,1.0
+7132,viki sime,1989-02-09,27,African-American,9,Uttering a Forged Instrument,1.0
+2505,adrian liggins,1994-09-27,21,African-American,1,arrest case no charge,1.0
+4664,briana adhemar,1994-07-18,21,African-American,0,Battery,1.0
+540,peticia curtis,1989-10-15,26,African-American,0,,1.0
+1987,shannon smith,1987-12-22,28,Caucasian,0,Battery,1.0
+10213,jamar wright,1992-05-07,23,African-American,4,Burglary Unoccupied Dwelling,1.0
+482,nigel brown,1991-09-05,24,Other,0,Felony Battery (Dom Strang),1.0
+2742,sandy uwanawich,1983-08-11,32,Caucasian,0,Grand Theft in the 3rd Degree,1.0
+377,antonio cooper,1989-02-07,27,African-American,3,Viol Prot Injunc Repeat Viol,1.0
+4935,turquora davis,1989-07-11,26,African-American,3,Pos Cannabis W/Intent Sel/Del,1.0
+6745,shawn hankerson,1990-10-27,25,African-American,6,arrest case no charge,1.0
+6314,tavarus graham,1985-07-24,30,African-American,9,Driving While License Revoked,1.0
+5350,colter thompson,1994-07-15,21,Caucasian,0,Possess Cannabis/20 Grams Or Less,1.0
+9984,nathan mcmullen,1974-03-18,42,Caucasian,8,Agg Fleeing and Eluding,1.0
+7599,jeremy blake,1991-12-01,24,African-American,0,Poss Pyrrolidinovalerophenone,1.0
+9145,jasmine cureton,1994-08-24,21,African-American,0,Prostitution/Lewd Act Assignation,1.0
+9749,ferris finley,1992-02-05,24,African-American,0,Burglary Unoccupied Dwelling,1.0
+9382,jeffrey fulton,1966-02-12,50,African-American,10,arrest case no charge,1.0
