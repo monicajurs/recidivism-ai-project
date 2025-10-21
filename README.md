@@ -5,8 +5,7 @@ This project demonstrates the design of a predictive analytics system that estim
 The model leverages machine learning algorithms and synthetic data to showcase responsible, transparent AI decision-support tools.
 
 ### Features
-- Synthetic recidivism dataset with 10+ risk factors
-- Automated preprocessing, SMOTE balancing, and hyperparameter tuning
+- Uses COMPAS data located at: https://github.com/propublica/compas-analysis/tree/master
 - Logistic Regression, Random Forest, and XGBoost model comparison, can choose which one is needed
 - ROC-AUC performance evaluation and probability calibration
 - Top 20 highest-risk visualization dashboard
@@ -19,4 +18,4 @@ Python, scikit-learn, XGBoost, imbalanced-learn, matplotlib, seaborn, pandas
 A ranked bar chart highlighting the top 20 predicted high-risk individuals, saved as CSV and shown within the notebook.
 
 ### Disclaimer
-This project uses entirely synthetic data and is intended for educational and portfolio demonstration purposes only.
+This project is intended for educational and portfolio demonstration purposes only.
